@@ -39,4 +39,7 @@ Java Swing
 
 IntelliJ IDEA
 
+
 Object-Oriented Programming
+<img width="1223" height="357" alt="Screenshot 2026-01-28 195159" src="https://github.com/user-attachments/assets/4f4c6c9e-f897-4072-a535-3cfb4320eb73" />
+<img width="1217" height="349" alt="image" src="https://github.com/user-attachments/assets/555bc8fd-ea65-47e6-a317-e902c09d42b6" />
