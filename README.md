@@ -1,11 +1,11 @@
-📌 Project Title
+# 📌 Project Title
 
 Multi-Algorithm Sorting Visualizer (Java, Swing)
 
 Designed and developed a Java-based desktop application to visually demonstrate and compare multiple sorting algorithms executing simultaneously. The application uses Java Swing and multithreading to render real-time graphical animations of sorting processes such as Bubble Sort and Selection Sort on identical datasets. Each algorithm runs independently in parallel, enabling clear visual comparison of algorithmic behavior, time complexity patterns, and performance characteristics. The project enhances conceptual understanding of data structures and algorithms through interactive visualization and modular design.
 
 
-🛠️ Key Features
+## 🛠️ Key Features
 
 Simultaneous visualization of multiple sorting algorithms
 
@@ -19,7 +19,7 @@ Customizable animation speed for improved clarity
 
 Platform-independent Java Swing GUI
 
-🧠 Concepts Used
+## 🧠 Concepts Used
 
 Data Structures & Algorithms
 
@@ -31,7 +31,7 @@ Object-oriented design
 
 Real-time graphics rendering
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 
 Java
 
